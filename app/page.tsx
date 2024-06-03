@@ -8,7 +8,7 @@ export default function Home() {
                 <h1 className={title()}>Jin's&nbsp;</h1>
                 <h1 className={title({ color: "violet" })}>TODO APP&nbsp;</h1>
                 <br />
-                <h1 className={title()}>Welcome and Enjoy!</h1>
+                <h1 className={title()}>Welcome and Enjoy!&#39;s</h1>
             </div>
             <div></div>
         </section>

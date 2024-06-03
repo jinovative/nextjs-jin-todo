@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { useSearchParams } from "react-router-dom";
 import { fetchATodo, deleteATodo, editATodo } from "@/data/firestore";
-import { data } from "autoprefixer";
 
 //search single TODO
 export async function GET(
